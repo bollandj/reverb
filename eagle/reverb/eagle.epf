@@ -1,0 +1,24 @@
+[Eagle]
+Version="09 04 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/a_con.lbr"
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/a_diode.lbr"
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/a_ic.lbr"
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/a_misc.lbr"
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/a_passive.lbr"
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/a_supply.lbr"
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/a_transistor.lbr"
+UsedLibrary="C:/Users/Joshua/Documents/EAGLE/libraries/SparkFun-Eagle-Libraries-master/SparkFun-Jumpers.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
